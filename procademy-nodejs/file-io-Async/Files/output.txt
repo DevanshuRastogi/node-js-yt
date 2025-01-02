@@ -1,0 +1,2 @@
+from input.txt : Gonna take this file as input to for readFile sync  .
+ given  is created on Thu Jan 02 2025 16:20:30 GMT+0530 (India Standard Time)
